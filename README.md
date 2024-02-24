@@ -5,7 +5,7 @@
 
 # Stack Tech
 - SOC
-- hardware
+- hardware/orcad/pads/allegro
 - linux/uboot
 
 
