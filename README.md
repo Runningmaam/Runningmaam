@@ -4,8 +4,8 @@
   
 
 # Stack Tech
-- SOC
-- hardware/orcad/pads/allegro
+- SOC verification
+- devkit board design/schmatic/pcb
 - linux/uboot
 
 
